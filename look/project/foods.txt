@@ -1,0 +1,55 @@
+<html>
+<head>
+	<title>Foods</title>
+     <link rel="stylesheet" type="text/css" 
+  href="style.css">
+</head>
+<body>
+   <center> 
+     <h1>HILLYS RESTAURANT</h1>
+     <h3>For Delicious Meal, Enjoy</h3>
+      <a href="index.html">HomePage</a> /
+      <a href="foods.hmtl">Foods</a> /
+      <a href="drinks.html">Drinks</a> /
+      <a href="order.html">ORDER</a> /
+  </center>
+  <hr>
+
+  <h2>Our Foods</h2>
+   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   tempor incididunt ut labore et dolore magna aliqua.</p>
+     <h4>Ugali</h4>
+     <img src="images/ugali.jpg" alt="Toyota Fielder" width="300">
+     <ul>
+     	<li>Ugali</li>
+     	<li>Type: Kenyan</li>
+     	<li>Best for Lunch</li>
+     </ul>
+
+
+      <a href="order.html">ORDER</a>
+      <hr>
+
+     <h4>Chapati</h4>
+     <img src="images/chapati.jpg" alt="Nissan Note" width="300" height="300">
+      <ul>
+        <li>Chapati</li>
+        <li>Type: Kenyan</li>
+        <li>Best for Supper</li>
+       </ul>
+      <a href="">ORDER</a>
+      <hr>
+
+     <h4>Rice</h4>
+     <img src="images/rice.jpg" alt="Nissan Note" width="300" height="300">
+      <ul>
+        <li>Rice</li>
+        <li>Type: Ugandan</li>
+        <li>Best for Lunch</li>
+       </ul>
+      <a href="order.html">ORDER</a>
+      <hr>
+     
+
+</body>
+</html>

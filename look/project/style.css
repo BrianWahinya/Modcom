@@ -1,0 +1,109 @@
+
+h1 {
+	color: #448AFF;
+	background-color: #000000;
+	font-family: broadway;
+}
+body{
+   margin-left: 5%;
+   margin-right: 5%;
+   background-image: url("images/img4.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+p{
+	color: #ffffff;
+	font-family: terminal,arial,"Gill Sans";
+	border-style: solid;
+	border-width: 4px;
+    border-color: grey;
+    border-right: 8px solid black;
+    border-radius: 5px;
+    text-align: justify;
+    background-color: grey;
+}
+
+img{
+	border-radius: 15px;
+	opacity: 0.9;
+}
+
+h2{
+	text-decoration: overline;
+	direction: rtl;
+	text-shadow: 3px 2px grey;
+	text-transform: uppercase;
+}
+
+ul {
+   font-family: arial;
+   text-align: left;
+   border-style: dotted;
+   border-left: 8px solid black;
+   list-style-type: none;
+   list-style-image: url("images/arrow.png");
+
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+
+th{
+  background-color: grey;
+}
+
+
+
+
+
+a {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 19.5%;
+  margin-right: 0.625%;
+  text-align: center;
+  line-height: 3;
+  color: black;
+  background-color: white;
+}
+
+
+a:hover {
+   background-color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

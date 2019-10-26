@@ -1,0 +1,53 @@
+<html>
+<head>
+	<title>ORDER</title>
+  <link rel="stylesheet" type="text/css" 
+  href="style.css">
+</head>
+<body>
+   <center> 
+     <h1>HILLYS RESTAURANT</h1>
+     <h3>For Delicious Meal, Enjoy</h3>
+      <a href="index.html">HomePage</a> /
+      <a href="foods.html">Foods</a> /
+      <a href="drinks.html">Drinks</a> /
+      <a href="order.html">ORDER</a> /
+  </center>
+  <hr>
+   <h2>Order Form</h2>
+<fieldset>
+ <center>  
+   <form action="" method="">
+   	  <input type="text" name="" placeholder="Enter Surname">
+      <br><br>
+      
+      <input type="number" name="" placeholder="Mobile No">
+      <br><br>
+
+      <input type="email" name="" placeholder="Enter Email">
+      <br><br>
+
+       <label>Select Meal</label><br>
+       <select>
+       	  <option>Rice</option>
+          <option>Ugali</option>
+          <option>Chapati</option>
+       </select>
+
+       <br><br>
+      <label>Select Drink</label><br>
+       <select>
+          <option>Black Tea</option>
+          <option>Kenyan Tea</option>
+          <option>Ugandan Tea</option>
+       </select>
+      
+    <br><br>
+    <input type="submit" name="">
+    <input type="reset" name="">
+   </form>
+
+</center>
+</fieldset>
+</body>
+</html>

@@ -1,0 +1,84 @@
+h1 {
+	color :#C62828;
+	font-family: times new roman;
+	background-color: #757575;
+	font-size: 40px;
+}
+
+h2 {
+	color :#1A237E;
+	font-family: times new roman;
+}
+
+h3 {
+	color : #424242 ;
+	font-family: times new roman;
+
+}
+
+
+
+
+
+h4{
+   color : #424242;
+	font-family: times new roman;
+
+
+}
+p {
+	color: #000000;
+	font-family: arial;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+
+body {
+      background-color: #81D4FA; 
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+#links a {
+	color: #0D47A1;
+	background-color: #000000;
+	padding: 5px;
+	border-left: 2px solid blue;
+
+
+}
+
+
+
+#links a:hover {
+	background-color: #009688;
+
+}
+
+img{
+	border-style: 2px solid;
+	border-radius: 10px;
+
+
+}
+
+
+
+
+
+

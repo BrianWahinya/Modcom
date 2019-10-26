@@ -1,0 +1,19 @@
+javascript adds interactivity...sliding images.....(.js)
+
+bootstrap works with classes
+classes are denoted by . in css
+class is a html attribute with a value
+<p class="x">.............</p>    this is a paragraph
+<p class="x y">.............</p>  combine classes
+
+class name rules
+	dont have underscore
+	dont have spaces
+	can have a hyphen
+	use small letters
+tags	
+	<section>
+	<div>
+	<footer>
+	<header>
+	<sidebar>

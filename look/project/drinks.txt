@@ -1,0 +1,66 @@
+<html>
+<head>
+	<title>BuyCars</title>
+    <link rel="stylesheet" type="text/css" 
+  href="style.css">
+</head>
+<body>
+     <center> 
+     <h1>HILLYS RESTAURANT</h1>
+     <h3>For Delicious Meal, Enjoy</h3>
+      <a href="index.html">HomePage</a> /
+      <a href="foods.html">Foods</a> /
+      <a href="drinks.html">Drinks</a> /
+      <a href="order.html">ORDER</a> /
+  </center>
+  <hr>
+  <a href="index.html">BACK HOME</a>
+     <h2>Our Drinks</h2>
+     <p>We provide the following drinks </p>
+
+      <table width="100%" border="1"  >
+      	 <tr>
+      	 	<th>No</th>
+      	 	<th>Type</th>
+      	 	<th>Cost</th>
+      	 	<th>Photo</th>
+      	 	<th>Buy</th>
+      	 </tr>
+
+      	 <tr>
+      	 	<td>1</td>
+      	 	<td>Black Tea</td>
+      	 	<td>250KES</td>
+      	 	<td> <img src="images/tea1.jpg" alt="Pick-up" width="150"> </td>
+      	 	<td> 
+            <a href="order.html">BUY</a> </td>
+      	 </tr>
+
+
+          <tr>
+          <td>2</td>
+          <td>Kenyan Tea</td>
+          <td>200KES</td>
+          <td> <img src="images/tea2.jpg" alt="Pick-up" width="150"> </td>
+          <td> <a href="order.html">BUY</a> </td>
+         </tr>
+
+          <tr>
+          <td>3</td>
+          <td>TZ Tea</td>
+          <td>300KES</td>
+          <td> <img src="images/tea3.jpg" alt="Pick-up" width="150"> </td>
+          <td> <a href="order.html">BUY</a> </td>
+         </tr>
+
+          <tr>
+          <td>4</td>
+          <td>Kenyan Tea</td>
+          <td>150KES</td>
+          <td> <img src="images/tea4.jpg" alt="Pick-up" width="150"> </td>
+          <td> <a href="order.html">BUY</a> </td>
+         </tr>
+
+      </table>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HomePage</title>
+  <link rel="stylesheet" type="text/css" 
+  href="style.css">
+
+
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+
+<body>
+
+   <center> 
+     <h1>HILLYS RESTAURANT</h1>
+     <h3>For Delicious Meal, Enjoy</h3>
+      <a href="index.html">HomePage</a> /
+      <a href="foods.html">Foods</a> /
+      <a href="drinks.html">Drinks</a> /
+      <a href="order.html">ORDER</a> /
+
+  </center>
+<hr/>
+
+
+
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/chapati.jpg" alt="chapati" title="chapati" id="wows0_0"/></li>
+		<li><img src="data0/images/cook.jpg" alt="cook" title="cook" id="wows0_1"/></li>
+		<li><img src="data0/images/pika.jpg" alt="pika" title="pika" id="wows0_2"/></li>
+		<li><img src="data0/images/rice.jpg" alt="rice" title="rice" id="wows0_3"/></li>
+		<li><img src="data0/images/tea1.jpg" alt="tea1" title="tea1" id="wows0_4"/></li>
+		<li><a href="http://wowslider.net"><img src="data0/images/tea2.jpg" alt="html slideshow" title="tea2" id="wows0_5"/></a></li>
+		<li><img src="data0/images/tea3.jpg" alt="tea3" title="tea3" id="wows0_6"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="chapati"><span><img src="data0/tooltips/chapati.jpg" alt="chapati"/>1</span></a>
+		<a href="#" title="cook"><span><img src="data0/tooltips/cook.jpg" alt="cook"/>2</span></a>
+		<a href="#" title="pika"><span><img src="data0/tooltips/pika.jpg" alt="pika"/>3</span></a>
+		<a href="#" title="rice"><span><img src="data0/tooltips/rice.jpg" alt="rice"/>4</span></a>
+		<a href="#" title="tea1"><span><img src="data0/tooltips/tea1.jpg" alt="tea1"/>5</span></a>
+		<a href="#" title="tea2"><span><img src="data0/tooltips/tea2.jpg" alt="tea2"/>6</span></a>
+		<a href="#" title="tea3"><span><img src="data0/tooltips/tea3.jpg" alt="tea3"/>7</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">html5 slideshow</a> by WOWSlider.com v8.8</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><!-- End WOWSlider.com BODY section -->
+
+ <h3>Karibu! HILLYS RESTAURANT</h3>
+
+ 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+ 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+ 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+ 	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+ 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+ 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ 	</p>
+
+<center>
+<img width="500" src="images/cook.jpg" alt="Toyota Cars">
+</center>
+
+<h3>Our Mission</h3>
+
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+ <center>
+
+	<a href="order.html">ORDER A MEAL</a>
+
+<h3>Follow Us Facebook</h3>
+<a href="http://facebook.com/modcominstitute"><img src="images/FB.png"></a>
+
+
+
+</body>
+</html>

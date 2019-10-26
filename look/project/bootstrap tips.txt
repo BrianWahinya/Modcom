@@ -1,0 +1,35 @@
+bg-primary
+bg-info
+bg-success
+bg-danger
+bg-warning
+bg-default
+
+
+<a class="btn btn-success"></a>
+
+<nav class="navbar navbar-default/inverse">
+
+<div class = "container-fluid">....navbar fits end to end
+<div class="navbar-header">
+<a class="navbar-brand" href=""></a>
+</div>
+<ul class="nav navbar-nav">
+
+
+navbar-fixed-top   navbar-fixed-bottom  navbar-right
+
+
+make a section a row using class row
+<section id="aboutus" class="row">
+
+classes for division
+col-md-6
+col-sm-4
+
+padding
+#sectionid{
+padding-top:5%
+padding-bottom:10%}
+
+jumbotron-big button

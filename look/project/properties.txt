@@ -1,0 +1,3 @@
+legend properties in a form
+
+span image
